@@ -23,3 +23,35 @@ Store as the primary key over which we have joined these tables
 ![image](https://user-images.githubusercontent.com/60999947/121236901-74fdb180-c864-11eb-9230-6810c12882d0.png)
 
 
+# Data exploration
+
+% Store type 
+![image](https://user-images.githubusercontent.com/60999947/121237055-a2e2f600-c864-11eb-8981-438c5f6c0d04.png)
+
+Analysis of demand variability
+
+![image](https://user-images.githubusercontent.com/60999947/121237201-ca39c300-c864-11eb-85b4-3f5e5df4a94d.png)
+
+Major Holiday extraction!
+
+Special Occasion holidays and Store Sales go hand-in-hand. It’s important to consider if any major Holiday falls on given date of prediction, as this is a huge factor contributing towards Sales estimation. We extracted weeks when sale was highest, i.e. more than 180000.
+‘Black Friday’, 
+‘Christmas’, 
+‘Labor Day’
+Redefine values for Holiday with dates are around these major occasions.
+![image](https://user-images.githubusercontent.com/60999947/121237265-dc1b6600-c864-11eb-81b2-1c530ece764a.png)
+
+
+Machine learning models:
+
+Data was split into train test partitions:
+
+Different machine learning regression models were evaluated using Mean Absolute Error and R squared error.
+
+Random forest with hyper parameter tuning performed best!
+
+![image](https://user-images.githubusercontent.com/60999947/121237588-35839500-c865-11eb-88bf-0ad4c8bf3acc.png)
+
+
+
+1. 
