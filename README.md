@@ -1,7 +1,7 @@
 # WalmartSalesPrediction
 Predict weekly Walmart sales for Kaggle data https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/
 
-Problem Statement![image](https://user-images.githubusercontent.com/60999947/121236751-47186d00-c864-11eb-8080-4ba1a819fd4d.png)
+# Problem Statement![image]
 
 Walmart Inc. is the world’s largest company by revenue as well as the largest private employer and grocery retailer. 
 Our aim is to accurately forecast weekly sales of Walmart as it helps its ability to function and provide employment. 
