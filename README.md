@@ -34,11 +34,6 @@ Analysis of demand variability
 
 Major Holiday extraction!
 
-Special Occasion holidays and Store Sales go hand-in-hand. It’s important to consider if any major Holiday falls on given date of prediction, as this is a huge factor contributing towards Sales estimation. We extracted weeks when sale was highest, i.e. more than 180000.
-‘Black Friday’, 
-‘Christmas’, 
-‘Labor Day’
-Redefine values for Holiday with dates are around these major occasions.
 ![image](https://user-images.githubusercontent.com/60999947/121237265-dc1b6600-c864-11eb-81b2-1c530ece764a.png)
 
 
